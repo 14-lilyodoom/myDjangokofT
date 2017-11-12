@@ -25,7 +25,7 @@ SECRET_KEY = '1am5k&6_f%ns+fv&7rp9v3gvj_-6gykpfj+ar3afktvr879^h-'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['127.0.0.1', ]
+ALLOWED_HOSTS = ['127.0.0.1', 'leeodoom.pythonanywhere.com']
 
 
 # Application definition
